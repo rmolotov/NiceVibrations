@@ -73,16 +73,6 @@ doxygen/
 NiceVibrations/test-results.xml
 NiceVibrations/.app/
 
-# Ignore the plugins that get copied after building.
-# Instead of ignoring the entire NiceVibrations/Assets/NiceVibrations/Plugins/ directory, we only
-# ignore the individual plugins here. That way, we can still have the .meta files in git. This is
-# needed since the .meta files contain important settings, like saying that
-# libnice_vibrations_editor_plugin should only be loaded in the editor.
-NiceVibrations/Assets/NiceVibrations/Plugins/Android/libs/LofeltHaptics.aar
-NiceVibrations/Assets/NiceVibrations/Plugins/iOS/LofeltHaptics.framework/
-NiceVibrations/Assets/NiceVibrations/Plugins/macOS/libnice_vibrations_editor_plugin.dylib
-NiceVibrations/Assets/NiceVibrations/Plugins/Windows/x64/nice_vibrations_editor_plugin.dll
-
 # The license file is copied from ../../licenses/ when creating a release, and the copy is not
 # tracked in git.
 NiceVibrations/Assets/NiceVibrations/3RD-PARTY-LICENSES.md
