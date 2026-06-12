@@ -1,0 +1,11 @@
+{
+  "name": "com.lofelt.nicevibrations",
+  "version": "4.1.3",
+  "displayName": "NiceVibrations",
+  "description": "Solution for haptic effects.",
+  "author": {
+    "name": "Lofelt"
+  },
+  "changelogUrl": "https://github.com/rmolotov/NiceVibrations/blob/fix/unity-integration/CHANGELOG.md",
+  "documentationUrl": "https://github.com/rmolotov/NiceVibrations/blob/fix/unity-integration/interfaces/unity/README.md"
+}
