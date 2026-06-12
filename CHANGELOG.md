@@ -2,6 +2,13 @@
 
 ## Change Log
 
+### Nice Vibrations for Unity `4.1.3`
+
+**12 June 2026**
+- [Android 16 KB page size support on 64-bit devices](https://github.com/Lofelt/NiceVibrations/pull/56) by [@pletoss](https://github.com/pletoss)
+- `HapticSource`: revert play fallback when clip is null by [@rmolotov](https://github.com/rmolotov)
+- Add `package.json` for Unity integration by [@rmolotov](https://github.com/rmolotov)
+
 ### Nice Vibrations for Unity `4.1.2`
 
 **7 October 2022**
